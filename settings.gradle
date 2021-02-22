@@ -1,0 +1,2 @@
+rootProject.name='ESP_Health_Monitor'
+include ':app'

@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/violet</item>
+        <item name="colorPrimaryDark">@color/violet</item>
+        <item name="colorAccent">@color/violet</item>
+    </style>
+
+    <style name="splashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/violet</item>
+        <item name="color">@color/violet</item>
+        <item name="colorAccent">#910039</item>
+        <item name="android:windowBackground">@drawable/spashhealth</item>
+    </style>
+
+</resources>

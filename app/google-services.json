@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "90545243244",
+    "firebase_url": "https://nodemcu-6692b-default-rtdb.firebaseio.com",
+    "project_id": "nodemcu-6692b",
+    "storage_bucket": "nodemcu-6692b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90545243244:android:5c12472ecaee0014d88449",
+        "android_client_info": {
+          "package_name": "com.example.esp_health_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90545243244-i4dq0f74bq34eq5fqdid0tq7pgk8cism.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3E7mOmDpnSeHmrWY0Z239xJcEQdPmtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90545243244-i4dq0f74bq34eq5fqdid0tq7pgk8cism.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90545243244:android:2ed2dfd644b46e1ed88449",
+        "android_client_info": {
+          "package_name": "com.example.nodemcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90545243244-i4dq0f74bq34eq5fqdid0tq7pgk8cism.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3E7mOmDpnSeHmrWY0Z239xJcEQdPmtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90545243244-i4dq0f74bq34eq5fqdid0tq7pgk8cism.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
